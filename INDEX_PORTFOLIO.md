@@ -53,7 +53,7 @@ Ce workspace est organisé en 5 phases. Chaque phase contient des **missions con
 
 | Phase | Statut | Date début | Date fin | Artefacts complétés |
 |-------|--------|------------|----------|---------------------|
-| PHASE 01 | 🔴 Non commencée | 2026-06-22 | 2026-07-26 | 0/6 |
+| PHASE 01 |  Débuté | 2026-06-22 | 2026-07-26 | 0/6 |
 | PHASE 02 | ⏳ En attente | 2026-07-27 | 2026-09-20 | 0/6 |
 | PHASE 03 | ⏳ En attente | 2026-09-21 | 2026-11-22 | 0/6 |
 | PHASE 04 | ⏳ En attente | 2026-11-23 | 2027-01-24 | 0/6 |
@@ -61,12 +61,3 @@ Ce workspace est organisé en 5 phases. Chaque phase contient des **missions con
 
 ---
 
-## Comment utiliser ce workspace avec Kimi
-
-1. **Chaque soir** : ouvre le fichier de la phase en cours, exécute la mission du jour.
-2. **Quand un artefact est prêt** : reviens ici, je le relis, je le corrige, je te dis si c'est "recruiter-ready".
-3. **Quand une phase est terminée** : on fait un bilan, on pousse sur GitHub, on passe à la phase suivante.
-
----
-
-> **On y va. Lundi 22 juin 2026. Phase 1, Semaine 1, Jour 1.**

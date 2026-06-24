@@ -10,11 +10,11 @@
 
 | Semaine | Thème | Livrable | Deadline |
 |---------|-------|----------|----------|
-| 1 | Réseau & Wireshark | `W1_Network_Fundamentals.md` + 3 screenshots | 28 juin |
-| 2 | Home Lab Setup | `W2_Lab_Setup.md` + schéma réseau | 5 juillet |
-| 3 | Windows Logs & Sysmon | `W3_Windows_Logs.md` + 1 screenshot Event Viewer | 12 juillet |
-| 4 | Linux Logs & Parsing | `W4_Linux_Logs.md` + 1 screenshot auth.log | 19 juillet |
-| 5 | Consolidation & Cheat Sheets | `Cheat_Sheet_Linux.md` + `Cheat_Sheet_Windows_Event_IDs.md` | 26 juillet |
+| 1       | Réseau & Wireshark | `W1_Network_Fundamentals.md` + 3 screenshots | 28 juin |
+| 2       | Home Lab Setup | `W2_Lab_Setup.md` + schéma réseau | 5 juillet |
+| 3       | Windows Logs & Sysmon | `W3_Windows_Logs.md` + 1 screenshot Event Viewer | 12 juillet |
+| 4       | Linux Logs & Parsing | `W4_Linux_Logs.md` + 1 screenshot auth.log | 19 juillet |
+| 5       | Consolidation & Cheat Sheets | `Cheat_Sheet_Linux.md` + `Cheat_Sheet_Windows_Event_IDs.md` | 26 juillet |
 
 ---
 
